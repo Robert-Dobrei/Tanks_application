@@ -1,1 +1,1 @@
-# Tanks_application
+Ca sa deschideti jocul, intrati in folderul Tanks_build si dati dublu click pe Tanks.application
